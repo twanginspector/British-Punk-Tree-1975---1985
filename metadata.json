@@ -1,0 +1,8 @@
+{
+  "name": "British Punk Tree 1975 - 1985",
+  "description": "An interactive visualization of the connections between punk bands and their members during the height of punk (1975-1985).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
